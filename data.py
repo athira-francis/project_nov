@@ -1,7 +1,13 @@
 def add(a,b):
 
-    a+b
+    return a+b
 
 def sub(x,y):
 
-    x-y
+    return x-y
+
+def mul(x,y):
+
+    return x*y
+
+    
